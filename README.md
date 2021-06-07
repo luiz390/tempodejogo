@@ -1,0 +1,2 @@
+# tempodejogo
+duração do jogo
